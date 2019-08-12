@@ -1,0 +1,40 @@
+button#add-pizza {
+    margin-top:20px;
+    margin-bottom:20px;
+  }
+  
+  #clear-button {
+    margin-left:80px;
+    display: none;
+  }
+  img#left{
+    border-radius: 50%;
+    margin-right: 30px;
+    border: 5px solid white;
+  }
+  
+  label.choose, .pricing, #totalSentence {
+    font-family: 'Pacifico', cursive;
+    margin-top:20px;
+  }
+  
+  ul#pizzas{
+    margin-left:55px;
+    margin-top:20px;
+    list-style-image: url('../img/favicon.jpg');
+  }
+  
+  h1 {
+    font-family: 'Pacifico', cursive;
+  }
+  
+  span#total {
+    color: #dc3545;
+    font-size: 90px;
+  }
+  
+  #main {
+    width: 60%;
+    margin: auto;
+  }
+  
